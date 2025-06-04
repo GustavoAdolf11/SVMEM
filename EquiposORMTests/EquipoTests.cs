@@ -30,14 +30,15 @@ namespace EquiposORMTests
         [Theory]
         [InlineData("EquipoAlpha", "Servidor", "Operativo", "Carlos", true)]
         [InlineData("EQ1", "Servidor", "Operativo", "Carlos", false)] // nombre corto
-        [InlineData("Equipo9", "Servidor", "Operativo", "Carlos", false)] // contiene dígito
-        [InlineData("EquipoAlpha", "Demo", "Operativo", "Carlos", false)] // tipo inválido
-        [InlineData("EquipoAlpha", "Prototipo", "Operativo", "Carlos", false)] // tipo inválido
-        [InlineData("EquipoAlpha", "Estación", "FueraDeServicio", "Carlos", false)] // estado inválido
-        [InlineData("EquipoAlpha", "Estación", "StandBy", "Carlos", true)] // estado alternativo válido
-        [InlineData("EquipoAlpha", "Estación", "Operativo", "", false)] // técnico sin nombre
-        [InlineData("EquipoAlpha", "Estación", "Operativo", "Al", false)] // nombre de técnico muy corto
-        [InlineData("EquipoBeta", "Industrial", "Operativo", "María", true)] // todo correcto
+        [InlineData("Equipo9", "Servidor", "Operativo", "Carlos", false)] // contiene dï¿½gito
+        [InlineData("EquipoAlpha", "Demo", "Operativo", "Carlos", false)] // tipo invï¿½lido
+        [InlineData("EquipoAlpha", "Prototipo", "Operativo", "Carlos", false)] // tipo invï¿½lido
+        [InlineData("EquipoAlpha", "Estaciï¿½n", "FueraDeServicio", "Carlos", false)] // estado invï¿½lido
+        [InlineData("EquipoAlpha", "Estaciï¿½n", "StandBy", "Carlos", true)] // estado alternativo vï¿½lido
+        [InlineData("EquipoAlpha", "Estaciï¿½n", "Operativo", "", false)] // tï¿½cnico sin nombre
+        [InlineData("EquipoAlpha", "Estaciï¿½n", "Operativo", "Al", false)] // nombre de tï¿½cnico muy corto
+        [InlineData("EquipoBeta", "Industrial", "Operativo", "Marï¿½a", true)] // todo correcto
+        [InlineData("Equipo9", "Servidor", "Operativo", "Juan Carlos Sesarego", false)] // contiene dï¿½gito
         public void EsEquipoCritico_PruebasCompletas(string nombre, string tipo, string estado, string nombreTecnico, bool esperado)
         {
             var equipo = new Equipo
