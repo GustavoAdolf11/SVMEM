@@ -1,0 +1,56 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+packages/
+*.symbols.nupkg
+
+# Carpetas de publicación
+publish/
+out/
+
+# Archivos de configuración local
+appsettings.Development.json
+appsettings.Local.json
+
+# Archivos de pruebas y cobertura
+TestResults/
+*.coverage
+*.coveragexml
+
+# Archivos generados por herramientas
+Generated_Code/
+
+# Archivos de seguridad (opcional)
+secrets.json
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de Mac
+.DS_Store
+
+# Archivos de Linux
+*.swp
+*.swo
