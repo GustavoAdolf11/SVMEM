@@ -1,0 +1,11 @@
+### Team
+
+<!-- Nombre del equipo por ejm: Equipo 1, Equipo 2, etc -->
+
+### Ticket
+
+<!-- URL del ticket de Jira -->
+
+### Name
+
+<!-- Nombre que aparece en el ticket -->

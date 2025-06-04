@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD3560B-BBC3-4CCA-BD08-064FD8030D1C}|EquiposORMDominio\\EquiposORMDominio.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormdominio\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD3560B-BBC3-4CCA-BD08-064FD8030D1C}|EquiposORMDominio\\EquiposORMDominio.csproj|solutionrelative:equiposormdominio\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEAFA85-5A3C-4B34-B3CE-3BFA31DEE84A}|EquiposORMPersistencia\\EquiposORMPersistencia.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormpersistencia\\repositorioequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEAFA85-5A3C-4B34-B3CE-3BFA31DEE84A}|EquiposORMPersistencia\\EquiposORMPersistencia.csproj|solutionrelative:equiposormpersistencia\\repositorioequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormservicios\\serviciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|solutionrelative:equiposormservicios\\serviciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormservicios\\equipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|solutionrelative:equiposormservicios\\equipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0CC817-7855-4E71-97C7-8BA5252A09F4}|EquiposORMTests\\EquiposORMTests.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormtests\\equipotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0CC817-7855-4E71-97C7-8BA5252A09F4}|EquiposORMTests\\EquiposORMTests.csproj|solutionrelative:equiposormtests\\equipotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD3560B-BBC3-4CCA-BD08-064FD8030D1C}|EquiposORMDominio\\EquiposORMDominio.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormdominio\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD3560B-BBC3-4CCA-BD08-064FD8030D1C}|EquiposORMDominio\\EquiposORMDominio.csproj|solutionrelative:equiposormdominio\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormservicios\\servicioequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|solutionrelative:equiposormservicios\\servicioequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0157D67A-9553-4395-969F-49276C000E66}|EquiposORM\\EquiposORM.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0157D67A-9553-4395-969F-49276C000E66}|EquiposORM\\EquiposORM.csproj|solutionrelative:equiposorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E67961E-E6E3-4942-9EEF-6122141F21DA}|EquiposORMPresentacion\\EquiposORMPresentacion.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormpresentacion\\frmequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E67961E-E6E3-4942-9EEF-6122141F21DA}|EquiposORMPresentacion\\EquiposORMPresentacion.csproj|solutionrelative:equiposormpresentacion\\frmequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|c:\\users\\monic\\onedrive\\juancarlos\\ucv\\2025-1\\ingenieria software\\clases con formato\\sesion 09\\laboratorio\\final\\equiposorm_con_test\\equiposormservicios\\serviciotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F61B39E-7F3A-4E05-B0AC-0E350993087B}|EquiposORMServicios\\EquiposORMServicios.csproj|solutionrelative:equiposormservicios\\serviciotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositorioEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\RepositorioEquipo.cs",
+              "RelativeDocumentMoniker": "EquiposORMPersistencia\\RepositorioEquipo.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\RepositorioEquipo.cs",
+              "RelativeToolTip": "EquiposORMPersistencia\\RepositorioEquipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:10:01.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tecnico.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\Tecnico.cs",
+              "RelativeDocumentMoniker": "EquiposORMDominio\\Tecnico.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\Tecnico.cs",
+              "RelativeToolTip": "EquiposORMDominio\\Tecnico.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:03:32.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicioEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\ServicioEquipo.cs",
+              "RelativeDocumentMoniker": "EquiposORMServicios\\ServicioEquipo.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\ServicioEquipo.cs",
+              "RelativeToolTip": "EquiposORMServicios\\ServicioEquipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:03:21.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquipoDTO.cs",
+              "RelativeDocumentMoniker": "EquiposORMServicios\\EquipoDTO.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquipoDTO.cs",
+              "RelativeToolTip": "EquiposORMServicios\\EquipoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:03:19.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\Equipo.cs",
+              "RelativeDocumentMoniker": "EquiposORMDominio\\Equipo.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\Equipo.cs",
+              "RelativeToolTip": "EquiposORMDominio\\Equipo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:32:27.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipoTests.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMTests\\EquipoTests.cs",
+              "RelativeDocumentMoniker": "EquiposORMTests\\EquipoTests.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMTests\\EquipoTests.cs",
+              "RelativeToolTip": "EquiposORMTests\\EquipoTests.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwCcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:23:24.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmEquipos.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPresentacion\\FrmEquipos.cs",
+              "RelativeDocumentMoniker": "EquiposORMPresentacion\\FrmEquipos.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPresentacion\\FrmEquipos.cs",
+              "RelativeToolTip": "EquiposORMPresentacion\\FrmEquipos.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:07:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicioTecnico.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\ServicioTecnico.cs",
+              "RelativeDocumentMoniker": "EquiposORMServicios\\ServicioTecnico.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\ServicioTecnico.cs",
+              "RelativeToolTip": "EquiposORMServicios\\ServicioTecnico.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:07:09.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioBase.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\ServicioBase.cs",
+              "RelativeDocumentMoniker": "EquiposORMServicios\\ServicioBase.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\ServicioBase.cs",
+              "RelativeToolTip": "EquiposORMServicios\\ServicioBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:56:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORM\\Program.cs",
+              "RelativeDocumentMoniker": "EquiposORM\\Program.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORM\\Program.cs",
+              "RelativeToolTip": "EquiposORM\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:54:47.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquiposORMServicios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj",
+        "projectName": "EquiposORMDominio",
+        "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj",
+        "packagesPath": "C:\\Users\\monic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\monic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\EquiposORMPersistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\EquiposORMPersistencia.csproj",
+        "projectName": "EquiposORMPersistencia",
+        "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\EquiposORMPersistencia.csproj",
+        "packagesPath": "C:\\Users\\monic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\monic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj": {
+                "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquiposORMServicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquiposORMServicios.csproj",
+        "projectName": "EquiposORMServicios",
+        "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\EquiposORMServicios.csproj",
+        "packagesPath": "C:\\Users\\monic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMServicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\monic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj": {
+                "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMDominio\\EquiposORMDominio.csproj"
+              },
+              "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\EquiposORMPersistencia.csproj": {
+                "projectPath": "C:\\Users\\monic\\OneDrive\\JUANCARLOS\\UCV\\2025-1\\Ingenieria Software\\Clases con Formato\\Sesion 09\\LABORATORIO\\FINAL\\EquiposORM_con_Test\\EquiposORMPersistencia\\EquiposORMPersistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
